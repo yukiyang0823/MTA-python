@@ -1,0 +1,7 @@
+print("%6.2f"%132.23456)
+print("%8.2f"%2564.88777)
+print("%-6.2f"%23.80)
+print('{:08.2f}'.format(123.4678))
+print('{:.2f}'.format(123.45678))
+print('{:2f}'.format(1.234))
+print('{:.2f}'.format(1.234))
